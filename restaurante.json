@@ -1,0 +1,57 @@
+{
+    "productos": [
+        {
+            "nombre": "Pizza Margarita",
+            "descripcion": "Clásica pizza con salsa de tomate, mozzarella fresca y hojas de albahaca.",
+            "precio": 17.56
+        },
+        {
+            "nombre": "Pizza Pepperoni",
+            "descripcion": "Pizza con rodajas de pepperoni y queso mozzarella.",
+            "precio": 7.15
+        },
+        {
+            "nombre": "Calzone Relleno",
+            "descripcion": "Pizza doblada rellena con queso, embutidos y verduras.",
+            "precio": 5.9
+        },
+        {
+            "nombre": "Lasagna Boloñesa",
+            "descripcion": "Pasta en capas con salsa boloñesa, bechamel y queso parmesano.",
+            "precio": 17.81
+        },
+        {
+            "nombre": "Espagueti Carbonara",
+            "descripcion": "Pasta con salsa cremosa de yema de huevo, queso pecorino, panceta y pimienta negra.",
+            "precio": 6.14
+        },
+        {
+            "nombre": "Risotto al Funghi",
+            "descripcion": "Risotto cremoso con arroz arborio, champiñones y queso parmesano.",
+            "precio": 13.09
+        },
+        {
+            "nombre": "Ensalada Caprese",
+            "descripcion": "Ensalada con tomate, mozzarella, albahaca y aceite de oliva.",
+            "precio": 19.5
+        },
+        {
+            "nombre": "Tiramisú",
+            "descripcion": "Postre con café, mascarpone, bizcochos de soletilla y cacao en polvo.",
+            "precio": 9.67
+        },
+        {
+            "nombre": "Focaccia al Romero",
+            "descripcion": "Pan plano aromatizado con romero, sal y aceite de oliva.",
+            "precio": 10.85
+        },
+        {
+            "nombre": "Antipasto Italiano",
+            "descripcion": "Selección de embutidos, quesos, aceitunas y vegetales encurtidos.",
+            "precio": 19.17
+        }
+    ],
+    "oferta": {
+        "descripcion": "Hoy estamos ofertando un descuento del 5% si compra más de dos productos"
+    }
+}
